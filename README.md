@@ -1,11 +1,11 @@
 **📂 JavaScript Assignment Project
 📖 Overview**
 
-This project demonstrates basic JavaScript programming concepts including variables, conditionals, functions, loops, and DOM interactions. It is structured into three files:
+This project demonstrates basic JavaScript programming concepts, including variables, conditionals, functions, loops, and DOM interactions. It is structured into three files:
 
 index.html → HTML structure
 
-style.css → Basic styling (optional)
+style.css → Basic styling 
 
 script.js → JavaScript logic (Parts 1–4)
 
